@@ -1,0 +1,98 @@
+    1  uname -a
+    2  ls
+    3  pwd
+    4  touch output.txt
+    5  cat output.txt
+    6  I shoud alter more
+    7  ls
+    8  touch output.txt
+    9  touch output2.txt
+   10  cat output2.txt
+   11  commit -m
+   12  git commit
+   13  git push
+   14  git add
+   15  cls
+   16  clear
+   17  pwd
+   18  cd C:\Users\LVVE2K631\Documents\2.Estudos_Area_Trabalho\chat_gpt_prompts
+   19  cd /tmp
+   20  cd C:/Users/LVVE2K631/Documents/2.Estudos_Area_Trabalho/chat_gpt_prompts
+   21  cd /
+   22  cd Users
+   23  ls
+   24  cd workspaces
+   25  ls
+   26  cd /
+   27  cd bin
+   28  ls
+   29  clear
+   30  cd /
+   31  ls
+   32  pwd
+   33  cd boot
+   34  ls
+   35  pwd
+   36  clear
+   37  cd /
+   38  ls
+   39  cd /workspaces
+   40  ls
+   41  cd /coursera-test-bash
+   42  source ~/.bashrc
+   43  echo "Hello World!"
+   44  chmod +x hello.sh
+   45  ls -l hello.sh
+   46  ./hello.sh
+   47  cal
+   48  date
+   49  cd/usr/bin
+   50  cd /usr/bin
+   51  sl
+   52  ls
+   53  ls -l
+   54  touch hello.sh
+   55  bash hello.sh
+   56  vim ~/.bashrc
+   57  cal
+   58  date
+   59  clear
+   60  cd user/bin
+   61  cd usr/bin
+   62  cd /usr/bin
+   63  ls
+   64  ls -l
+   65  watch
+   66  clear
+   67  cd /workspaces
+   68  ls
+   69  cd coursera-test-bash
+   70  clear
+   71  df -h
+   72  du -sh*
+   73  du -sh *
+   74  top
+   75  clear
+   76  pwd
+   77  ls -lah
+   78  which python3
+   79  python3
+   80  clear
+   81  which javascript
+   82  which java
+   83  java
+   84  clear
+   85  less etc/passwd
+   86  less /etc/passwd
+   87  ps
+   88  ps -ef
+   89  alias
+   90  echo $SHELL
+   91  ls -la ~/
+   92  vim ~/.bashrc
+   93  alias
+   94  echo -e "Porto Feliz\nSorocaba\nItu"
+   95  echo -e "Porto Feliz\nSorocaba\nItu" > cidades.txt
+   96  echo -e "Porto Feliz\nSorocaba\nItu" | sort > cidades.txt
+   97  history
+   98  history > history_commands2.txt

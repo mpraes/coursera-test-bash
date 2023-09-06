@@ -1,0 +1,1 @@
+export TRUCK="F-1000"
