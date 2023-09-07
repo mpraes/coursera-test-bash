@@ -1,0 +1,4 @@
+Tire = 90 
+Engine = 1000 
+ Bench = 200
+Chassi = 5000
